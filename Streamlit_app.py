@@ -1,5 +1,8 @@
 import streamlit as st
 import streamlit.components.v1 as components
+import streamlit as st
+
+st.title("My App")
 
 st.set_page_config(
     page_title="Happy Birthday Monika 🎂",
